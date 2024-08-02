@@ -10,7 +10,7 @@ cd wordle-hard-mode
 brew install make
 make
 ```
-## play game
+## play
 ```
 ./wordle_game
 ```
